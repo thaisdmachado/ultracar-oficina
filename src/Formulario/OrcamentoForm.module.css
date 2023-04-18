@@ -1,0 +1,16 @@
+.form {
+    width: 100%;
+    margin: 1em 0;
+}
+
+.form input {
+    border: none;
+    padding-right: 2em;
+
+}
+
+.container  {
+    display: block;
+    justify-content: space-between;
+}
+

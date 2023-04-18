@@ -1,0 +1,130 @@
+{
+  "orcamentos": [
+    {
+      "name": "Thais Machado",
+      "CpfCnpj": "123456789",
+      "phone": "33333333",
+      "email": "teste@teste.com",
+      "licensePlate": "AAA1111",
+      "date": "2023-04-17T23:45",
+      "veiculos": {
+        "id": "1",
+        "modelo": "Chevrolet Onix"
+      },
+      "valor": 1336,
+      "servicos": [
+        {
+          "name": "Alinhamento",
+          "valor": "150",
+          "id": "fec183bf-e163-45fc-ac93-6c4e03d3ba6f"
+        },
+        {
+          "name": "Balanceamento",
+          "valor": "550",
+          "id": "f0015df9-56b9-4c82-be2e-739332fc6820"
+        },
+        {
+          "dateAut": "2023-04-18T17:34",
+          "name": "Funilaria",
+          "valor": "636",
+          "id": "e1686460-26b4-43f7-ac23-ea9d4750ba60"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "José Souza Silva",
+      "CpfCnpj": "888888888888",
+      "phone": "99999999999",
+      "email": "jose@silva.com",
+      "licensePlate": "ABC9999",
+      "date": "2023-04-18T01:59",
+      "veiculos": {
+        "id": "3",
+        "modelo": "Hyundai HB20"
+      },
+      "valor": 0,
+      "servicos": [],
+      "id": 2
+    },
+    {
+      "name": "Joana Silva",
+      "CpfCnpj": "444444444",
+      "licensePlate": "DDD3333",
+      "date": "2023-04-18T02:00",
+      "veiculos": {
+        "id": "4",
+        "modelo": "Jeep Renegade"
+      },
+      "valor": 0,
+      "servicos": [],
+      "id": 3
+    },
+    {
+      "name": "Alexa",
+      "CpfCnpj": "123965478",
+      "phone": "36363636636",
+      "email": "teste@gmail.com",
+      "licensePlate": "PPP8888",
+      "date": "2023-04-18T18:41",
+      "veiculos": {
+        "id": "5",
+        "name": "Volkswagen Gol"
+      },
+      "valor": 199,
+      "servicos": [
+        {
+          "name": "Alinhamento",
+          "valor": "199",
+          "dateAut": "2023-04-18T18:42",
+          "id": "c17c2eb3-f926-4bdf-9187-78966352cfc4"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "veiculos": [
+    {
+      "id": 1,
+      "name": "Chevrolet Onix"
+    },
+    {
+      "id": 2,
+      "name": "Fiat Palio"
+    },
+    {
+      "id": 3,
+      "name": "Hyundai HB20"
+    },
+    {
+      "id": 4,
+      "name": "Jeep Renegade"
+    },
+    {
+      "id": 5,
+      "name": "Volkswagen Gol"
+    },
+    {
+      "id": 6,
+      "name": "Kia Cerato"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "name": "Joana"
+    },
+    {
+      "id": 2,
+      "name": "Pedro"
+    },
+    {
+      "id": 3,
+      "name": "João"
+    },
+    {
+      "id": 4,
+      "name": "Maria"
+    }
+  ]
+}

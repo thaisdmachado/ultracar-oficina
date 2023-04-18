@@ -1,0 +1,45 @@
+.orcamento_details {
+    padding: 1em;
+}
+
+.orcamento_details h1 {
+    padding: .2em;
+    background-color: #373E66;
+    border-radius: 1.5em;
+    color: white;
+}
+
+.orcamento_details span {
+    font-weight: bold;
+}
+
+.details_container,
+.service_form_container {
+    border-bottom: 1px solid #7a7a7a;
+    margin-bottom: 1.2em;
+    padding-bottom: 1.2em;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.btn {
+    background-color: #373E66;
+    color: #fff;
+    padding: 0.7em 1.6em;
+    text-decoration: none;
+    transition: .5s;
+    cursor: pointer;
+    border-radius: 20px;
+    max-height: 30px;
+    border: none;
+    margin-top: 30px;
+}
+
+.btn:hover {
+    color: #000000;
+}
+
+.orcamento_info {
+    width: 100%;
+}

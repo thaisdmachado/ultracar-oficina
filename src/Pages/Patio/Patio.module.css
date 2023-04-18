@@ -1,0 +1,16 @@
+.patio_lista {
+    padding: 1em;
+    border: 1px solid #7a7a7a;
+    border-radius: 10px;
+    border: none;
+    background-color: #ffffff;
+    margin-bottom: .5em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.patio_lista span {
+    font-weight: bold;
+}

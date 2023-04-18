@@ -1,0 +1,62 @@
+.orcamento_lista {
+    padding: 1em;
+    border: 1px solid #7a7a7a;
+    border-radius: 10px;
+    border: none;
+    background-color: #ffffff;
+    margin-bottom: .5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.orcamento_lista h4 {
+    background-color: #373e66;
+    color: #fff;
+    padding: .4em;
+    font-size: 1em;
+    border-radius: 5px;
+    margin-right: .5em;
+}
+.orcamento_lista span {
+    font-weight: bold;
+}
+
+.orcamento_lista_actions {
+    margin-top: 1.2em;
+    margin-left: 1em;
+    display: flex;
+    align-items: center;
+}
+
+.orcamento_lista_actions a, 
+.orcamento_lista_actions button {
+    text-decoration: none;
+    border: none;
+    color: #fff;
+    font-size: .9em;
+    padding: .6em 1.2em;
+    cursor: pointer;
+    margin-right: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+
+.orcamento_lista_actions a {
+    background-color: #373e66;
+}
+
+.orcamento_lista_actions button {
+    background-color: #663034;
+}
+
+.orcamento_lista_actions a:hover {
+    background-color: #686D99;
+}
+
+.orcamento_lista_actions button:hover {
+    background-color: #9B6062;
+}
