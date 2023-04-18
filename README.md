@@ -13,6 +13,7 @@ Realizar um sistema de orçamentos, onde o usuário pode adicionar dados do clie
 - Uuid: para gerar um código unico dos serviços cadastrados
 - JSON-server: para simular um backend/API, de forma que consigo salvar dados em um banco de dados local
 - AntDesign: para estilização
+- React-router-dom: para configuração de rotas e navegação entre as paginas
 
 
 Made with 💙 by Thais Machado
